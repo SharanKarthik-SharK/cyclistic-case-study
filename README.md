@@ -8,7 +8,7 @@ Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.cour
 
 ## Introduction
 
-In this case study, I analyze how Cyclistic can convert casual riders into annual members. I followed the six-step data analysis process.
+In this case study, I perform real-world data analysis as a junior analyst at Cyclistic, a fictional Chicago bike-share company. Cyclistic, a bike-share program in Chicago, seeks to convert more casual riders into annual members to secure sustainable growth. The marketing director believes increasing annual memberships will drive long-term profitability. This case study analyzes internal ride data to identify the behavioral and usage patterns that differentiate annual members from casual riders, supporting data-driven marketing recommendations and I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 ---
 
