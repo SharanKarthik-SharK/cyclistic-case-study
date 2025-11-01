@@ -40,7 +40,7 @@ Cyclistic’s marketing team wants to convert more casual riders into annual mem
 
 ## Prepare
 
-The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata](LINK), with attributes including ride dates, rider type, station info, and bike type. Personally identifiable information was excluded to protect rider privacy.
+The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), with attributes including ride dates, rider type, station info, and bike type. Personally identifiable information was excluded to protect rider privacy.
 
 
 
