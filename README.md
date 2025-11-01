@@ -34,6 +34,7 @@ In this case study, I perform real-world data analysis as a junior analyst at Cy
 ## Ask
 
 Cyclistic’s marketing team wants to convert more casual riders into annual members for sustained growth.  
+
 **Key Analysis Question:**  
 - How do annual members and casual riders use Cyclistic bikes differently?
 
