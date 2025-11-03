@@ -22,11 +22,11 @@ In this case study, I perform real-world data analysis as a junior analyst at Cy
 
 ## Table of Contents
 
-- [Ask](#ask)
-- [Prepare](#prepare)
-- [Process](#process)
-- [Analyze](#analyze)
-- [Share](#share)
+- [Ask](##ask)
+- [Prepare](##prepare)
+- [Process](##process)
+- [Analyze](##analyze)
+- [Share](##share)
 - [Act](#act)
 ...
 
