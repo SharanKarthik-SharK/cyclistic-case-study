@@ -43,4 +43,13 @@ Cyclistic’s marketing team wants to convert more casual riders into annual mem
 The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), with attributes including ride dates, rider type, station info, and bike type. Personally identifiable information was excluded to protect rider privacy.
 
 
+## Process
+
+### Data Exploration
+
+Before cleaning, the combined dataset contains **[insert row count]** rows.  
+Key columns include: ride_id, started_at, ended_at, rideable_type, start_station_name, end_station_name, member_casual, and coordinates.
+
+- **Check for missing values and record types:**  
+
 
