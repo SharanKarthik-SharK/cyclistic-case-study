@@ -111,6 +111,17 @@ Observations:
  
       <img width="412" height="233" alt="Mem   Cas bef Clean" src="https://github.com/user-attachments/assets/304495d5-a622-42af-9880-bce3de68943f" />
 
+
+   11. Columns that need to be removed are start_station_id and end_station_id as they do not add value to analysis of our current problem. Longitude and latitude location columns may not be used in analysis but can be used to visualise a map.
+
+
+
+
+
+### Data Cleaning
+
+SQL Queries: [03. Cleaning](03.Data%20cleaning.sql)
+
   
 
 
