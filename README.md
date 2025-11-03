@@ -228,6 +228,17 @@ round patterns.
 
 ## Act
 
+###Recommendations:
+
+1. Target casuals during weekends/summer at popular stations.
+ 
+2. Offer short-term or promo memberships to encourage trial.
+ 
+3. Highlight cost-savings for members at key locations.
+ 
+4. Use digital/social ads focused on top casual stations.
+
+
 
 
 
