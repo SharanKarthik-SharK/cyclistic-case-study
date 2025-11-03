@@ -141,7 +141,13 @@ SQL Queries: [03. Cleaning](03.Data%20cleaning.sql)
 ## Analyze
 
 
-  
+  The dataset has now been successfully organized and is ready for analysis. Various tables were generated and later visualized using Tableau to explore key patterns.
+
+As part of the analysis, the following core question was considered: In what ways do annual subscribers and casual users differ in their use of Cyclistic bikes?
+
+With the data cleaned and formatted, I queried essential tables to aid my analysis, visualizing comparisons between different rider types in Tableau.
+
+For this analysis, the main focus was: How do the trip behaviors of members contrast with those of casual riders using the Cyclistic system?
 
 
 
