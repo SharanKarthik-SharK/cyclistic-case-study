@@ -228,7 +228,7 @@ round patterns.
 
 ## Act
 
-###Recommendations:
+### Recommendations:
 
 1. Target casuals during weekends/summer at popular stations.
  
