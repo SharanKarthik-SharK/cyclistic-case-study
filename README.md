@@ -63,8 +63,15 @@ SQL Queries:  [01. Data Combining](01.Data%20combining.sql)
 ### Data Exploration
 SQL Queries:  [02. Data Exploration](02.Data%20exploration.sql)
 
-Before cleaning, the combined dataset contains **[5,667,717]** rows.  
+ 
+Before cleaning the combined data which contains 5,667,717 Rows  , I am familiarizing myself with the data to find the inconsistencies.
 Key columns include: ride_id, started_at, ended_at, rideable_type, start_station_name, end_station_name, member_casual, and coordinates.
+
+Observations:
+
+The table below shows the all column names and their data types. The ride_id column is our primary key.
+
+
 
 - **Check for missing values and record types:**  
 
