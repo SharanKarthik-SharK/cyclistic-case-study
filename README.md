@@ -50,6 +50,14 @@ The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata
 
 ## Process
 
+BigQuery is used to combine the various datasets into one dataset and clean it.
+Reason:
+A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
+
+### Combining Data 
+SQL Queries:  [01. Data Combining](01.Data%20combining.sql)
+12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
+
 ### Data Exploration
 
 Before cleaning, the combined dataset contains **[5,667,717]** rows.  
