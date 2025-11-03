@@ -42,7 +42,7 @@ Cyclistic’s marketing team wants to convert more casual riders into annual mem
 
 The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), with attributes including ride dates, rider type, station info, and bike type. Personally identifiable information was excluded to protect rider privacy.
 
-### SQL Query:  **SQL Queries:** [01. Data Combining](01.Data_combining.sql)
+**SQL Queries:** [01. Data Combining](01.Data_combining.sql)
 12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
 
 
