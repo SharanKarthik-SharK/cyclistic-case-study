@@ -139,6 +139,9 @@ SQL Queries: [03. Cleaning](03.Data%20cleaning.sql)
 
 
 ## Analyze
+SQL Queries: [04. Analysis](04.Data%20Analysis.sql)
+
+
 
 
   The dataset has now been successfully organized and is ready for analysis. Various tables were generated and later visualized using Tableau to explore key patterns.
@@ -148,6 +151,19 @@ As part of the analysis, the following core question was considered: In what way
 With the data cleaned and formatted, I queried essential tables to aid my analysis, visualizing comparisons between different rider types in Tableau.
 
 For this analysis, the main focus was: How do the trip behaviors of members contrast with those of casual riders using the Cyclistic system?
+
+
+### 1. Number of Rides by User Type
+
+   
+   ![1 Bar Chart for Rides by User type](https://github.com/user-attachments/assets/a35300aa-59a9-4b69-929b-a3568edd6632)
+
+
+    Insight:
+ Members make up a larger total of rides than casuals, but the casual segment represents a
+ major opportunity for growth
+
+
 
 
 
