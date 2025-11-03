@@ -71,6 +71,8 @@ Observations:
 
   1. The table below shows the all column names and their data types. The ride_id column is our primary key.
 
+  ![Data Types](DataTypes.png)
+
      
 
 
