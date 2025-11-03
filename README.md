@@ -96,6 +96,22 @@ Observations:
 
     
   6. The started_at and ended_at shows start and end time of the trip in YYYY-MM-DD hh:mm:ss UTC format. New column ride_length can be created to find the total trip duration. There are 5360 trips which has duration longer than a day and 122283 trips having less than a minute duration or having end time earlier than start time so need to remove them. Other columns day_of_week and month can also be helpful in analysis of trips at different times in a year.
+  
+  7. Total of 833064 rows have both start_station_name and start_station_id missing which needs to be removed.
+  
+  8. Total of 892742 rows have both end_station_name and end_station_id missing which needs to be removed.
+  
+  9. Total of 5858 rows have both end_lat and end_lng missing which needs to be removed.
+  
+  10. member_casual column has 2 uniqued values as member or casual rider.
+
+
+    
+
+ 
+<img width="412" height="233" alt="Mem   Cas bef Clean" src="https://github.com/user-attachments/assets/304495d5-a622-42af-9880-bce3de68943f" />
+
+  
 
 
 
