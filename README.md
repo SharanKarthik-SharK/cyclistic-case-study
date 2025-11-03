@@ -122,19 +122,19 @@ Observations:
 
 SQL Queries: [03. Cleaning](03.Data%20cleaning.sql)
 
-a.Removed duplicate ride records to ensure each entry is unique.
+(a) Removed duplicate ride records to ensure each entry is unique.
 
-b.Filtered out entries with missing latitude or longitude values.
+(b) Filtered out entries with missing latitude or longitude values.
 
-c.Corrected wrongly formatted timestamps for start and end times.
+(c) Corrected wrongly formatted timestamps for start and end times.
 
-d.Replaced blank or null station names with "Unknown".
+(d) Replaced blank or null station names with "Unknown".
 
-e.Standardized the rideable_type values to match the dataset schema.
+(e) Standardized the rideable_type values to match the dataset schema.
 
-f.Verified and fixed inconsistencies in member status detection.
+(f) Verified and fixed inconsistencies in member status detection.
 
-g.Ensured all IDs are in string format for merging and analysis.
+(g) Ensured all IDs are in string format for merging and analysis.
 
 
   
