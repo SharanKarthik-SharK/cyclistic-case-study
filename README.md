@@ -88,6 +88,8 @@ Observations:
 
   4. All ride_id values have length of 16 so no need to clean it.
   5. There are 3 unique types of bikes(rideable_type) in our data.
+
+  
     <img width="390" height="227" alt="rideable_type" src="https://github.com/user-attachments/assets/2b7db973-fb7d-45be-9d5d-96d068de92b3" />
 
   6. The started_at and ended_at shows start and end time of the trip in YYYY-MM-DD hh:mm:ss UTC format. New column ride_length can be created to find the total trip duration. There are 5360 trips which has duration longer than a day and 122283 trips having less than a minute duration or having end time earlier than start time so need to remove them. Other columns day_of_week and month can also be helpful in analysis of trips at different times in a year.
