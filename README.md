@@ -52,7 +52,7 @@ The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata
 
 ### Data Exploration
 
-Before cleaning, the combined dataset contains **[insert row count]** rows.  
+Before cleaning, the combined dataset contains **[5,667,717]** rows.  
 Key columns include: ride_id, started_at, ended_at, rideable_type, start_station_name, end_station_name, member_casual, and coordinates.
 
 - **Check for missing values and record types:**  
