@@ -69,10 +69,10 @@ Key columns include: ride_id, started_at, ended_at, rideable_type, start_station
 
 Observations:
 
-The table below shows the all column names and their data types. The ride_id column is our primary key.
+  1. The table below shows the all column names and their data types. The ride_id column is our primary key.
+
+     
 
 
-
-- **Check for missing values and record types:**  
 
 
