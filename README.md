@@ -15,7 +15,7 @@ In this case study, I perform real-world data analysis as a junior analyst at Cy
 ## Quick links
 
 - **Data Source:** [divvy_tripdata](#)
-- **SQL Queries:** [01. Combining](01_combining.sql), [02. Exploration](#sql-queries-exploration), [03. Cleaning](#sql-queries-cleaning), [04. Analysis](#sql-queries-analysis)
+- **SQL Queries:** [01. Combining](01_combining.sql), [02. Exploration](02_exploation.sql), [03. Cleaning](03_cleaning.sql), [04. Analysis](#sql-queries-analysis)
 - **Tableau Visualizations:** see Analysis section
 
 ---
