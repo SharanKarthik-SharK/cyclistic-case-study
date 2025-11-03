@@ -61,7 +61,7 @@ SQL Queries:  [01. Data Combining](01.Data%20combining.sql)
 12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
 
 ### Data Exploration
-SQL Queries:  [01. Data Exploration](02.Data%20exploration.sql)
+SQL Queries:  [02. Data Exploration](02.Data%20exploration.sql)
 
 Before cleaning, the combined dataset contains **[5,667,717]** rows.  
 Key columns include: ride_id, started_at, ended_at, rideable_type, start_station_name, end_station_name, member_casual, and coordinates.
