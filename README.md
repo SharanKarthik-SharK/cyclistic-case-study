@@ -40,10 +40,11 @@ Cyclistic’s marketing team wants to convert more casual riders into annual mem
 
 ## Prepare
 
+### About Data
 The data consists of 2022 ride records from Cyclistic’s public [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), with attributes including ride dates, rider type, station info, and bike type. Personally identifiable information was excluded to protect rider privacy.
 
-## SQL Queries:  [01. Data Combining](01.Data%20combining.sql)
-12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
+### Data Organization
+There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
 
 
  
@@ -56,6 +57,7 @@ A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inabi
 
 ### Combining Data 
 SQL Queries:  [01. Data Combining](01.Data%20combining.sql)
+
 12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
 
 ### Data Exploration
