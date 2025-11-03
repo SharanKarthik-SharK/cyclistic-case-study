@@ -74,6 +74,11 @@ Observations:
 
      <img width="700" height="700" alt="DataTypes" src="https://github.com/user-attachments/assets/9f1667ee-9087-4870-bfb0-62e0d6ddd6e9" />
 
+  2. The following table shows number of null values in each column.
+
+
+<img width="975" height="49" alt="null values" src="https://github.com/user-attachments/assets/4cbd530f-6a74-498d-941e-d9c54031c8ac" />
+
 
 
 
