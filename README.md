@@ -164,6 +164,71 @@ For this analysis, the main focus was: How do the trip behaviors of members cont
  major opportunity for growth
 
 
+ ### 2. Average Ride Duration by User Type
+
+     
+   ![2 Avg Ride Duration by User Type](https://github.com/user-attachments/assets/cb9b36a1-a553-4617-8093-3c53501f8ae0)
+
+    Insight:
+ Casual riders have much longer average trip durations, suggesting more leisure/tourism use,
+ versus membersʼ shorter, commuter-like rides.
+
+
+ ### 3. Trips by Day of Week (for each user type)
+
+
+ 
+   ![3 Trips by Day of Week (for each usertype)](https://github.com/user-attachments/assets/86991ca3-a2cc-4548-9f62-23e69e86964f)
+
+    Insight:
+ Casuals ride much more on weekends, while member activity is higher and steadier through
+ weekdays—matching commute routines.
+
+
+ ### 4. Trips by Month Seasonality)
+
+ 
+   ![4 Trips by month(Seasonality)](https://github.com/user-attachments/assets/68e92703-cc4e-4caf-84e9-47324a8cb761)
+
+    Insight:
+ Both types of users peak in spring/summer. Membership rides are less seasonal, showing year
+round patterns.
+
+
+### 5. Top 10 Most Popular Start Stations
+
+   
+   ![5 Top 10 Most Popular Start Stations](https://github.com/user-attachments/assets/7f5435f3-9b60-4987-b6f8-1a8c504bcd9e)
+
+    Insight:
+ Popular start stations cluster in tourist, park, and business districts—best places to target
+ membership messaging.
+
+
+### 6. Distribution of Rides by Bike Type
+
+   ![6 Distribution of Rides by Bike type](https://github.com/user-attachments/assets/9cf8174f-3411-445b-9ca1-be49495a50ad)
+
+    Insight:
+ Classic bikes are most used, followed by electric and then docked bikes. Marketing and
+ investments should reflect this usage split.
+
+
+
+### Share
+
+
+   <img width="653" height="221" alt="Share" src="https://github.com/user-attachments/assets/f687b1a0-ed4e-47e8-a7d5-4c818faa12e6" />
+
+
+
+
+
+
+##Act
+
+
+
 
 
 
