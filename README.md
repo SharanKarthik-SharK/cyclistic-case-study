@@ -15,7 +15,7 @@ In this case study, I perform real-world data analysis as a junior analyst at Cy
 ## Quick links
 
 - **Data Source:** [divvy_tripdata](#)
-- **SQL Queries:** [01. Data Combining](01.Data%20combining.sql), [02. Data Exploration](02.Data%20exploration.sql), [03. Cleaning](03.Data%20cleaning.sql), [04. Analysis](04.Data%20Analysis.sql)
+- **SQL Queries:** [01. Data Combining](01.Data%20combining.sql), [02. Data Exploration](02.Data%20exploration.sql), [03. Data Cleaning](03.Data%20cleaning.sql), [04. Data Analysis](04.Data%20Analysis.sql)
 - **Tableau Visualizations:** see Analysis section
 
 ---
@@ -120,7 +120,7 @@ Observations:
 
 ### Data Cleaning
 
-SQL Queries: [03. Cleaning](03.Data%20cleaning.sql)
+SQL Queries: [03. Data Cleaning](03.Data%20cleaning.sql)
 
 (a) Removed duplicate ride records to ensure each entry is unique.
 
@@ -139,7 +139,7 @@ SQL Queries: [03. Cleaning](03.Data%20cleaning.sql)
 
 
 ## Analyze
-SQL Queries: [04. Analysis](04.Data%20Analysis.sql)
+SQL Queries: [04. Data Analysis](04.Data%20Analysis.sql)
 
 
 
